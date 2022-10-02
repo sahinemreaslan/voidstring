@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sahin Emre ASLAN</h1>
 <h3 align="center">A passionate Computer Vision & Aİ Researcher from Turkey</h3>
 
-- 🔭 I’m currently working on ROS and Computer Vision
+- 🔭 I’m currently working on Aİ and Computer Vision
 
-- 🌱 I’m currently learning ROS
+- 🌱 I’m currently learning Aİ
 
 - 📝 I regularly write articles on [Emreaslan.net](Emreaslan.net)
 
