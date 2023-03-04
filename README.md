@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Sahin Emre ASLAN</h1>
 <h3 align="center">A passionate Computer Vision & Aİ Researcher from Turkey</h3>
 
 - 🔭 I’m currently working on Aİ and Computer Vision
